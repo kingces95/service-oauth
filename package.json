@@ -1,0 +1,11 @@
+{
+  "name": "service-oauth",
+  "version": "1.0.0",
+  "description": "A Google App Script OAuth service",
+  "main": "/workspaces/service-oauth/src/index.js",
+  "scripts": {
+
+  },
+  "author": "Chris King",
+  "license": "MIT"
+}

@@ -1,2 +1,2 @@
 # service-oauth
-An OAuth service
+An OAuth service hosted by Google App Script
